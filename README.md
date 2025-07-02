@@ -4,7 +4,7 @@ A fun and interactive web-based game where players listen to short audio clips a
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Audio Clip Playback:** Listen to short snippets of songs and make your guess.
 - **Song Database:** Includes a curated selection of popular songs across genres (easily extendable).
@@ -13,7 +13,7 @@ A fun and interactive web-based game where players listen to short audio clips a
 
 ---
 
-## 🛠️ Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -40,7 +40,7 @@ The app should now be running at `http://localhost:5173` or your configured port
 ---
 
 
-## 📝 How to Play
+## How to Play
 
 1. Login/Signup
 2. Click the **Play** button to start a new round.
@@ -50,7 +50,7 @@ The app should now be running at `http://localhost:5173` or your configured port
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 guess-the-song-game/
@@ -70,7 +70,7 @@ guess-the-song-game/
 
 ---
 
-## 🧑‍💻 Contributing
+## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for:
 
@@ -81,7 +81,7 @@ Contributions are welcome! Please open an issue or submit a pull request for:
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, feedback, or suggestions:
 - GitHub Issues: [https://github.com/pandeyshivam-debug/guess-the-song-game/issues](https://github.com/pandeyshivam-debug/guess-the-song-game/issues)
