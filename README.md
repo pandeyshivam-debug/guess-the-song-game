@@ -58,9 +58,9 @@ guess-the-song-game/
 │   ├── components/      # React/Vue/JS UI components
 │   ├── pages/           # React/Vue/JS UI pages
 │   ├── utils/           # backend logic/configuration
-│   ├── App.css          # Main application file
-│   ├── App.jsx          # Main application file
-│   ├── index.css        # Main application file
+│   ├── App.css          # Page controller styles file
+│   ├── App.jsx          # Page controller
+│   ├── index.css        # Main styles file
 │   └── main.jsx         # Main application file
 ├── package.json
 └── README.md
