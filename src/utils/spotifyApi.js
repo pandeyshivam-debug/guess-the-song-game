@@ -1,7 +1,7 @@
 const API_BASE_URL = 'https://spotify81.p.rapidapi.com'
 
 const getHeaders = () => ({
-  'X-RapidAPI-Key': import.meta.env.VITE_RAPIDAPI_KEY,
+  'X-RapidAPI-Key': 56e86b672fmsh747a400b021a062p1ae47ajsnf6d7b76eaaee,
   'X-RapidAPI-Host': 'spotify81.p.rapidapi.com', 
   'Content-Type': 'application/json'
 })
