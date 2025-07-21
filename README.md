@@ -27,6 +27,8 @@ cd guess-the-song-game
 
 ```bash
 npm install
+or
+bun install
 ```
 
 ### 3. Start the development server
