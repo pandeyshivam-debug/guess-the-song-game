@@ -1,4 +1,4 @@
-# 🎶 Guess The Song Game
+# 🎶 Guess The Song Interactive Game
 
 A fun and interactive web-based game where players listen to short audio clips and try to guess the song title or artist.
 
