@@ -231,7 +231,7 @@ const AuthPage = ({ onLogin }) => {
             </div>
             <div className="text-white text-opacity-70">
               <div className="text-2xl mb-1">🏆</div>
-              <p className="text-xs">Beat Score</p>
+              <p className="text-xs">Beat High Score</p>
             </div>
           </div>
         </div>
