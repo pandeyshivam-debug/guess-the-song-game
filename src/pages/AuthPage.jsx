@@ -97,9 +97,9 @@ const AuthPage = ({ onLogin }) => {
             </svg>
           </div>
           <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-400 to-blue-400 bg-clip-text text-transparent mb-3">
-            GUESS THE SONG
+            SHIVAM'S GUESS THE SONG GAME
           </h1>
-          <p className="text-white text-opacity-80 text-lg">Test your music knowledge!</p>
+          <p className="text-white text-opacity-80 text-lg">Presentation Day Edit..!</p>
         </div>
 
         <div className="flex mb-8 bg-white bg-opacity-10 rounded-lg p-1">
